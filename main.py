@@ -1,6 +1,7 @@
+"""
 cron: 0 */6 * * *
 new Env("Linux.Do 签到")
-
+"""
 import os
 import random
 import time
